@@ -7,7 +7,7 @@ import style from "./index.module.css";
 const Header = () => {
   return (
     <nav className={style.header}>
-      <div className={style.header__container}>
+      <div className={style.header__content}>
         <ul>
           <Link to="/">
             <li>Home</li>
