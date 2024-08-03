@@ -6,6 +6,7 @@ import Footer from "./../../components/Footer";
 import style from "./index.module.css";
 
 import { BsStars } from "react-icons/bs";
+import { HiLightningBolt } from "react-icons/hi";
 
 import illustration from "../../assets/home_illustration.png";
 
@@ -33,7 +34,7 @@ const Index = () => {
               className={`${style.btn} ${style.btn__secondary}`}
             >
               <div className={style.btn__style}>
-                <BsStars />
+                <HiLightningBolt />
                 Other btn
               </div>
             </button>

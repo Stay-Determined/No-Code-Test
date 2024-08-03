@@ -3,17 +3,17 @@
   justify-content: space-between;
   align-items: center;
 
-  padding: 4% 10% 4% 10%;
+  padding: 4% 12% 4% 12%;
 }
 
 .home__content h1 {
   color: rgba(93, 67, 158, 0.74);
-  font-size: 32px;
-  width: 55%;
+  font-size: 36px;
+  width: 70%;
 }
 
 .home__content img {
-  width: 35%;
+  width: 40%;
 }
 
 .btn {
